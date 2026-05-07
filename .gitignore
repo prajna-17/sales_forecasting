@@ -6,7 +6,6 @@ __pycache__/
 *.log
 .ipynb_checkpoints/
 models/
-outputs/
 *.keras
 *.pkl
 *.joblib

@@ -1,0 +1,5 @@
+state,model,rmse,mae,mape,is_best
+Texas,sarima,0.0,0.0,0.0,True
+Texas,prophet,inf,inf,inf,False
+Texas,xgboost,0.0,0.0,0.0,False
+Texas,lstm,0.0,0.0,0.0,False
